@@ -2,7 +2,7 @@
 ## Objetivo
 O objetivo deste projeto é criar um sistema de blogging dinâmico para professores da rede pública de educação utilizando a plataforma OutSystems. Este sistema permite que professores criem, editem, excluam e listem postagens, enquanto alunos podem visualizar e ler essas postagens.
 
-## Tecnologias Utilizadas:hammer_and_wrench:
+## Tecnologias Utilizadas: hammer_and_wrench:
 **Figma:** Para construção de layout 
 **OutSystems:** Plataforma low-code para desenvolvimento de aplicações web.
 **GitHub:** Para controle de versão e hospedagem da documentação no GitHub Pages.
