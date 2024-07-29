@@ -1,4 +1,4 @@
-# Visão Geral do Projeto
+# Visão Geral do Projeto  :computer:
 ## Objetivo
 O objetivo deste projeto é criar um sistema de blogging dinâmico para professores da rede pública de educação utilizando a plataforma OutSystems. Este sistema permite que professores criem, editem, excluam e listem postagens, enquanto alunos podem visualizar e ler essas postagens.
 
