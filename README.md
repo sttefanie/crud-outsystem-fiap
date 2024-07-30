@@ -9,7 +9,7 @@ O objetivo deste projeto é criar um sistema de blogging dinâmico para professo
 
 
 
-# R equisitos Funcionais
+# Requisitos Funcionais
 ## Funcionalidades para Professores
 **Visualização de Posts:** Professores podem visualizar uma lista de todos os posts.
 **Criação de Posts:** Professores podem criar novos posts.
